@@ -8,7 +8,7 @@ function App() {
     <>
     <h1>Hello World</h1>
     <SignedOut>
-    <SignInButton mode='modal'><button className=''>SignUp</button></SignInButton>
+    <SignInButton mode='modal'><button >Login</button></SignInButton>
     </SignedOut>
 
     <SignedIn>
